@@ -1,5 +1,6 @@
 ﻿using Fragomen.Infrastructure;
 using Frogomen.Messaging.Domain.Entities;
+using Frogomen.Messaging.Domain.Exceptions;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
 
