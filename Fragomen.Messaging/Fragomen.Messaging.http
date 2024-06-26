@@ -1,0 +1,6 @@
+@Fragomen.Messaging_HostAddress = http://localhost:5031
+
+GET {{Fragomen.Messaging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
